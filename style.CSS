@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Montserrat', sans-serif;
-    
+    background-image: linear-gradient(to left, #fb7454, #da505d, #b03461, #7f225e, #4d1752, #4d1752, #4d1752, #4d1752, #7f225e, #b03461, #da505d, #fb7454);
     padding: 0;
     margin: 0;
   }
