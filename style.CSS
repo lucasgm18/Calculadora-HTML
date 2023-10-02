@@ -140,7 +140,10 @@ body {
   }
 
   .calc-btn-primary:focus {
-    outline:none
+    outline:none;
+    box-shadow: 0 0 5px #ff7555; 
+    border-radius: 50%; 
+    
   }
 
   .calc-btn-primary:active {
@@ -167,6 +170,15 @@ body {
     width: 320x;
     font-size: 20px;
     height: 60px;
+    border: none; 
+    border-radius: 5px;
+  }
+
+  .calc-btn-primary:focus {
+  outline: none; 
+  box-shadow: 0 0 5px #ff7555; 
+  border-radius: 50%; 
+
   }
 
   body {
