@@ -162,3 +162,10 @@ body {
   .calc-btn-clear:active {
     transform: scale(0.9);
   }
+  @media (max-width: 768px) {
+    .calc-btn-primary{
+    width: 320x;
+    font-size: 20px;
+    height: 60px;
+  }
+  }
